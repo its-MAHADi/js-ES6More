@@ -69,5 +69,5 @@ const people ={
         fristName:"stan"
     }
 }
-console.log(people.neil.fristName)  //output:neil
-console.log(people["neil"]["fristName"])  //output:neil
+// console.log(people.neil.fristName)  //output:neil
+// console.log(people["neil"]["fristName"])  //output:neil
